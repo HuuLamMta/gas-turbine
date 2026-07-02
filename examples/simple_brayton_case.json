@@ -1,0 +1,23 @@
+{
+  "description": "Chu trình Brayton một trục, điều kiện khí quyển tiêu chuẩn",
+  "units": "SI",
+  "ambient_temperature": 288.15,
+  "ambient_pressure": 101325.0,
+  "compressor_pressure_ratio": 10.0,
+  "turbine_inlet_temperature": 1400.0,
+  "air_mass_flow": 20.0,
+  "compressor_efficiency": 0.85,
+  "turbine_efficiency": 0.88,
+  "combustor_efficiency": 0.98,
+  "mechanical_efficiency": 0.99,
+  "generator_efficiency": 0.97,
+  "inlet_pressure_recovery": 0.99,
+  "combustor_pressure_loss": 0.04,
+  "exhaust_pressure_loss": 0.02,
+  "fuel_lhv": 43000000.0,
+  "cp_air": 1005.0,
+  "gamma_air": 1.4,
+  "cp_gas": 1148.0,
+  "gamma_gas": 1.333
+}
+
